@@ -5,7 +5,7 @@ import _base64
 import requests
 import time
 
-url = "https://discord.com/api/webhooks/1045398616371634176/wbwkzxGpNe_OTOuDnzt-Mk-Pnpspf7shV5DPJ_Fi7jJSomJHKrb8-C3KPAtFvctu5NiO"
+url = "https://discord.com/api/webhooks/"
 
 data = {
     "content": None,
